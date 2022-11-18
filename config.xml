@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="it.edu.casagrandecesi.chivuolesserestraricco" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Chi Vuol Essere Straricco</name>
+    <description>Quiz interattivo per scoprire la figura di Émilie du Châtelet</description>
+    <author email="paolo.bernardi@casagrandecesi.edu.it" href="https://cordova.apache.org">
+        I.I.S. "Casagrande-Cesi", Terni
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <preference name="BackgroundColor" value="0xff87a2a1"/>
+    <platform name="android">
+        <preference name="orientation" value="landscape" />
+    </platform>
+    <platform name="ios">
+        <preference name="orientation" value="landscape" />
+    </platform>
+    
+</widget>
