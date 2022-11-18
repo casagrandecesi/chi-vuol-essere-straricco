@@ -28,7 +28,7 @@ function resize {
     done
 }
 
-resize iPhone55 1242x2208 Original-iPhone
-resize iPhone65 1242x2688 Original-iPhone
-resize iPad129-2gen 2048x2732 Original-iPad
-resize iPad129-3gen 2048x2732 Original-iPad
+resize iPhone55 2208x1242 Original-iPhone
+resize iPhone65 2688x1242 Original-iPhone
+resize iPad129-2gen 2732x2048 Original-iPad
+resize iPad129-3gen 2732x2048 Original-iPad

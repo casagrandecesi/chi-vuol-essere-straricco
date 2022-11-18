@@ -11,5 +11,17 @@
     "ecosystem:cordova"
   ],
   "author": "Apache Cordova Team",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-ios": "^6.2.0",
+    "cordova-plugin-screen-orientation": "^3.0.2"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-screen-orientation": {}
+    },
+    "platforms": [
+      "ios"
+    ]
+  }
 }
